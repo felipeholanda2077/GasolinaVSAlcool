@@ -1,6 +1,8 @@
 # gasolinaapp
 
+
 Um Aplicativo para gerenciamento e sugestão de qual elemento deve abastecer em seu carro Etanol ou Gasolina
+
 
 ## Getting Started
 
