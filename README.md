@@ -3,6 +3,12 @@
 
 Um Aplicativo para gerenciamento e sugestão de qual elemento deve abastecer em seu carro Etanol ou Gasolina
 
+<br>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
+</p>
+
 
 ## Getting Started
 
