@@ -1,4 +1,4 @@
-# gasolinaapp
+# Gasolinaapp - O app para simplicar seu dia ainda mais
 
 
 Um Aplicativo para gerenciamento e sugestão de qual elemento deve abastecer em seu carro Etanol ou Gasolina
